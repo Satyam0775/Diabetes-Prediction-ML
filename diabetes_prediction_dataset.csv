@@ -1,5 +1,1 @@
-- The dataset used is originally from the National Institute of Diabetes and Digestive and Kidney Diseases.
-- It includes diagnostic measurements from females at least 21 years old of Pima Indian heritage.
-- Implemented and evaluated multiple classifiers including Logistic Regression, KNN, Decision Tree, Random Forest, and several ensemble methods.
-- Random Forest achieved the highest accuracy, followed closely by Bagging and CatBoost classifiers.
-- Added detailed results and conclusions to the notebook.
+
